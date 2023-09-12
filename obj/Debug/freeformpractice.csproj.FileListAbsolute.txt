@@ -1,0 +1,8 @@
+E:\New folder (6)\freeformpractice\freeformpractice\bin\Debug\freeformpractice.exe.config
+E:\New folder (6)\freeformpractice\freeformpractice\bin\Debug\freeformpractice.exe
+E:\New folder (6)\freeformpractice\freeformpractice\bin\Debug\freeformpractice.pdb
+E:\New folder (6)\freeformpractice\freeformpractice\obj\Debug\freeformpractice.csproj.AssemblyReference.cache
+E:\New folder (6)\freeformpractice\freeformpractice\obj\Debug\freeformpractice.csproj.SuggestedBindingRedirects.cache
+E:\New folder (6)\freeformpractice\freeformpractice\obj\Debug\freeformpractice.csproj.CoreCompileInputs.cache
+E:\New folder (6)\freeformpractice\freeformpractice\obj\Debug\freeformpractice.exe
+E:\New folder (6)\freeformpractice\freeformpractice\obj\Debug\freeformpractice.pdb
